@@ -8,6 +8,31 @@ registration_closes_date: 9 Feb 2026
 author: Ding He
 mailbox_address: dinghe@dtu.dk
 
+# Team members
+team:
+  - name: Ding He
+    email: dinghe@dtu.dk
+    image: /assets/Ding-He.png
+    affiliation: DTU
+    title: Research Data Steward, BRIGHT
+    links:
+      - title: DTU Orbit Profile
+        url: https://orbit.dtu.dk/en/persons/ding-he/
+        icon: bi-person-lines-fill
+      - title: GitHub
+        url: https://github.com/dinghe878
+        icon: bi-github
+  # Add more team members below:
+  # - name: Team Member Name
+  #   email: email@example.com
+  #   image: /assets/member-name.jpg
+  #   affiliation: University Name
+  #   title: Position/Title
+  #   links:
+  #     - title: Profile URL Title
+  #       url: https://example.com
+  #       icon: bi-person-lines-fill
+
 description:
   Love Data Week is an international celebration of data, taking place every year during the week of Valentine’s day. 
   Universities, nonprofit organizations, government agencies, corporations and individuals are encouraged to host and 
