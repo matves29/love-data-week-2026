@@ -17,7 +17,7 @@ To contact us about the Nordic Love Data Week, please reach out to our team
     {% for member in site.team %}
     <tr>
         <td>
-            <img alt="{{ member.name }}" src="{{ member.image }}">
+            <img alt="{{ member.name }}" src="{{ site.baseurl }}{{ member.image }}">
         </td>
         <td>
             <strong>{{ member.name }}</strong>
