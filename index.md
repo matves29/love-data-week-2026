@@ -6,7 +6,7 @@ menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, in association with Nordic Universities and Institutions
+# {{ site.event_date }}
 
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
