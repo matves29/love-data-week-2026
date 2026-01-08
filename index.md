@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hej Hei Data Lovers!
+title: Hei Hej Data Lovers!
 menu_title: Home
 menu_icon: house-door
 ---
