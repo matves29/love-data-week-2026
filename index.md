@@ -36,14 +36,16 @@ menu_icon: house-door
 {% if site.event_status != "over" %}
 
 This year, for the first time, Nordic Love Data Week is organized by several Nordic universities. We aim to promote awareness and best practices about research data management, data sharing, and data literacy across the Nordic region.
+
 We have several presentations to offer. 
-However, your research group may need to spend some love on your own data practices. Therefore, we invite you to set aside some time with your research group for the Nordic "Where's the Data Day" on Thursday 12 February.
+
+However, your research group may need to spend some love on own data practices. Therefore, we invite you to set aside some time with your research group for the Nordic "Where's the Data Day" on Thursday 12 February.
 
 ## When and where
 
 Visit the Agenda page (LINK) to find an online webinar or workshop of interest.
 
-Further, we invite research groups to create their own hands-on events on **Where's the Data Day** (LINK) Reserve some time for taking care of your research data and joining other research groups across the Nordic countries in developing robust data practices.
+Further, invite your research groups to the **Where's the Data Day** (LINK), where you reserve some time for taking care of your research data. Join other research groups across the Nordic countries in developing robust data practices.
 
 ## Välkommen! Tervetuloa! Velkommen!
 
