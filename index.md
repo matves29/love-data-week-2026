@@ -5,10 +5,22 @@ menu_title: Home
 menu_icon: house-door
 ---
 
-<img src="assets/advert.png" alt="Nordic Love Data Week banner" style="float: right; width: 40%; margin-left: 1.5rem; border-radius: 8px;">
+<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
 
-# Nordic Love Data Week 2026  
-**9–13 February 2026**
+  <div style="flex: 1; min-width: 280px;">
+    <h1>Nordic Love Data Week 2026</h1>
+    <p><strong>9–13 February 2026</strong></p>
+    <p>
+      Join research groups across the Nordics for a week of data love, workshops,  
+      and the annual “Where’s the Data?” Day.
+    </p>
+  </div>
+
+  <div style="flex: 1; max-width: 400px; min-width: 280px;">
+    <img src="{{ site.baseurl }}/assets/advert.png" alt="Nordic Love Data Week banner" style="width:100%; border-radius: 8px;">
+  </div>
+
+</div>
 
 ---
 
@@ -26,31 +38,31 @@ Give some love to your data — tidy, document, and share!
 
 However, your research group may need to spend some love on your own data practices.  
 Therefore, we invite you to set aside some time with your research group for the Nordic  
-**“Where’s the Data Day”** on **Thursday 12 February**.
+<strong>“Where’s the Data Day”</strong> on <strong>Thursday 12 February</strong>.
 
 ---
 
 ## 📍 When and where
 
-Visit the [Agenda page](#) to find an online webinar or workshop of interest.
+Visit the <a href="#">Agenda page</a> to find an online webinar or workshop of interest.
 
-We also invite research groups to create their own hands‑on events on **Where’s the Data Day**.  
-Reserve some time for taking care of your research data and join other research groups across the Nordic countries in developing better data practices.  
-Learn more [here](#).
+We also invite research groups to create their own hands‑on events on  
+<strong>Where’s the Data Day</strong>. Reserve some time for taking care of your research data and join other research groups across the Nordic countries in developing better data practices.  
+Learn more <a href="#">here</a>.
 
 ---
 
 ## 🧠 What is Nordic Love Data Week?
 
-This year, for the first time, **Nordic Love Data Week** is organized by several Nordic universities.  
+This year, for the first time, <strong>Nordic Love Data Week</strong> is organized by several Nordic universities.  
 We aim to promote:
 
-- Research data management best practices  
-- Data sharing and reuse  
-- Data literacy across the Nordic region  
+- <strong>Research data management best practices</strong>
+- <strong>Data sharing and reuse</strong>
+- <strong>Data literacy across the Nordic region</strong>
 
 ---
 
 ## 🌍 Välkommen! Tervetuloa! Velkommen!
 
-Use the hashtag **#LoveData26** to share your events, data stories, and clean‑up victories.
+Use the hashtag <strong>#LoveData26</strong> to share your events, data stories, and clean‑up victories.
