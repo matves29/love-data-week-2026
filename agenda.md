@@ -156,6 +156,7 @@ event_status:
 
 ---
 
+
 ## Feb 12
 
 <table class="agenda">
@@ -169,13 +170,24 @@ event_status:
     </tr>
   </thead>
   <tbody>
+
     <tr>
-      <td>—</td>
-      <td>No scheduled events</td>
-      <td>—</td>
-      <td>—</td>
-      <td>—</td>
+      <td>All day</td>
+      <td>Where is the Data Day</td>
+      <td><a href="https://dinhe878.github.io/love-data-week-2026/where-is-the-data-day/">Event page</a></td>
+      <td>
+        A Nordic-wide reflection and cleanup day dedicated to improving research data practices.  
+        Research groups across the Nordics are invited to pause, review, and improve how their data is planned, stored, documented, and preserved.  
+        The day encourages activities such as creating or updating data management plans, improving reproducibility workflows, documenting processes, or preparing datasets for publication.  
+        Participants can use the RDM Checklist and explore presentations and workshops offered during Love Data Week to inspire their work.  
+        A follow-up drop‑in session will be held on Friday for anyone wishing to share experiences or ask questions.  
+      </td>
+      <td>
+        Nordic Love Data Week Team  
+        <br><strong>Speaker bio:</strong> (This is a community activity day; no individual speakers listed.)
+      </td>
     </tr>
+
   </tbody>
 </table>
 
