@@ -2,11 +2,8 @@
 title: Nordic Love Data Week Agenda
 menu_title: Agenda
 menu_icon: clock
-event_status:
- - soon
 ---
 
-# Nordic Love Data Week Agenda
 
 ## Feb 9
 
