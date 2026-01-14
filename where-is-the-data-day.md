@@ -44,7 +44,7 @@ Whatever your situation, this is your moment to pause, breathe, and give your da
 Invite your research group to spend two or more hours to discuss and work with your own data practices. This is a self-administered event, so book your own room, coffee and most importantly a time slot! You can already now go through a RDM checklist to help decide which subject to dig into. **[Download the PDF Checklist]({{ site.baseurl }}{% link assets/LDW2026_cleanUp_checklist.pdf %})**
 
 
-During the Love Data Week, you are offered a range of online presentations and workshops arranged the previous day by Nordic Universities. The presentations can be an inspiration for your group’s work. **[Presentation](https://dinhe878.github.io/love-data-week-2026/agenda/)**
+During the Love Data Week, you are offered a range of online presentations and workshops arranged the previous day by Nordic Universities. The presentations can be an inspiration for your group’s work. **[Presentations](https://dinhe878.github.io/love-data-week-2026/agenda/)**
 
 Your university may also offer tailored workshops or consultations. Reach out to your library or data management support office — they’re always happy to help.
 
