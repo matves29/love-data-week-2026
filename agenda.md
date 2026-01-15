@@ -26,7 +26,7 @@ menu_icon: clock
       <td>In this webinar DeiC introduces you to the FAIR principles and make data reproducible</td>
       <td>
         Hanna Mihai, and Sandra Boerman DeiC<br>
-        <strong>Speaker bio:</strong> (No bio provided in XLSX)
+        <strong>Speaker bio:</strong> Mattias has a background as a researcher in Life Sciences working with proteins and Omics-data. He is currently working as a Research Data Advisor and Educator at KTH in Stockholm, Sweden.
       </td>
     </tr>
 
