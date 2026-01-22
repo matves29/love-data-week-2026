@@ -94,7 +94,10 @@ menu_icon: clock
     <tr>
       <td>13:00 – 13:30</td>
       <td>BRIGHT Data Catalog - Developing A Research Data Management Infrastructure</td>
-      <td><a href="https://dtudk.zoom.us/j/64272091751">Zoom link</a></td>
+      <td>
+        <a href="https://dtudk.zoom.us/j/64272091751">Zoom link</a>
+        <a href="https://www.bibliotek.dtu.dk/kalender/love-data-week-10022026?id=5bd1abef-be79-4029-8a41-dbba931d8a48">Event page</a>
+      </td>
       <td>
         I will share my experiences and opinions to solutions that we at BRIGHT trying to turn scattered research data into a coherent and well-governed asset. I will share our strategies for integrations of lab data, computational analyses, lab data and DMP. This presentation aims to stimulate discussions for architectural choices, lessons learned, and common pitfalls when building an end-to-end research data management infrastructure.
       </td>
@@ -106,7 +109,10 @@ menu_icon: clock
     <tr>
       <td>14:00 – 14:30</td>
       <td>Where's the data to your article? Learn how to prepare a Data Availability Statement</td>
-      <td><a href="https://dtudk.zoom.us/j/69571497149">Zoom link</a></td>
+      <td>
+        <a href="https://dtudk.zoom.us/j/69571497149">Zoom link</a>
+        <a href="https://www.bibliotek.dtu.dk/kalender/love-data-week-10022026-2?id=ce8ee2a0-896e-417f-ad0e-0e6fd53e2c1d">Event page</a>
+      </td>
       <td>
         Learn how to submit supporting data or code with your manuscript and how to prepare a data availability statement. Jitka will explain the workflow for integrating a data publication in the peer-review process of scientific articles. The data repository of DTU, [DTU Data](https://data.dtu.dk), is part of the [Figshare](https://figshare.com/) platform and will be used as an example. 
       </td>
@@ -161,7 +167,10 @@ menu_icon: clock
     <tr>
       <td>12:00 – 12:50</td>
       <td>Introduction to OpenRefine</td>
-      <td><a href="https://dtudk.zoom.us/s/68896187093?pwd=OQlxYSAOrbcHtQlklRVa9Ab4n8QIyz.1">Zoom link</a></td>
+      <td>
+        <a href="https://dtudk.zoom.us/s/68896187093?pwd=OQlxYSAOrbcHtQlklRVa9Ab4n8QIyz.1">Zoom link</a>
+        <a href="https://www.bibliotek.dtu.dk/kalender/love-data-week-11022026?id=544af4d2-7049-42e5-b64f-6565981cadf4">Event page</a>
+      </td>
       <td>
         OpenRefine is a powerful free, open source application for cleaning up messy data and transform the dataset into other formats. This webinar will inspire you to get started with OpenRefine. DTU researchers can book Jeannette for a workshop on Thursday 12 on a first-come-first-serve basis. This introduction is open to everyone.
       </td>
