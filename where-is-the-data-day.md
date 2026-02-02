@@ -56,6 +56,8 @@ Your university may also offer tailored workshops or consultations. Reach out to
 ---
 ## Share and discuss your work
 
-KTH offers [a drop-in session](https://www.kth.se/en/biblioteket/kalender/love-data-week-fa-hjalp-med-din-forskningsdata-drop-in-1.1453218) (09:00–15:00) for anyone wanting to discuss or share their experiences with the “Where’s the data Day”.
+**KTH [drop-in session](https://www.kth.se/en/biblioteket/kalender/love-data-week-fa-hjalp-med-din-forskningsdata-drop-in-1.1453218)** (09:00–15:00) for anyone wanting to discuss or share their experiences with the “Where’s the data Day”.
+
+**CBS [drop-in session](https://cbs.libcal.com/event/4508274)** (10:00-15:00) where researchers, research groups, and students can drop in to connect with other researchers and improve your data practices.
 
 Let’s make Data Care a Nordic tradition.
