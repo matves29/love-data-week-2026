@@ -30,7 +30,7 @@ menu_icon: clock
     </tr>
 
     <tr>
-      <td>10:30 – 11:00</td>
+      <td>11:00 – 11:30</td>
       <td>An introduction to Data Management Plans</td>
       <td><a href="[https://chalmers.zoom.us/j/62197498507](https://chalmers.zoom.us/j/62197498507)">Zoom link (Password: 541484)</a></td>
       <td>This introductory seminar provides an overview of Data Management Plans (DMPs). Participants will learn why DMPs are a useful element in a researcher's toolbox, and how they support good research practices across the research data lifecycle. The session also introduces key components of a DMP and points to tools and resources that can help researchers create effective plans.</td>
