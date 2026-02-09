@@ -183,9 +183,9 @@ menu_icon: clock
   <tbody>
 
     <tr>
-      <td>10:00 – 11:00</td>
+      <td>10:00 – 10:50</td>
       <td>Searching for research data</td>
-      <td><a href="">Zoom link</a></td>
+      <td><a href="https://cbs-dk.zoom.us/j/65287165619">Zoom link</a>(Passcode: 030713)</td>
       <td>
         The aim of FAIR data is to have, where possible, research data open and accessible to review and reuse. The present reality complicates data’s findability in a myriad of ways not least of which is the decentralised nature of research data repositories and indexes that characterise the data publishing landscape. In this presentation, I will discuss how a network of library research support staff in Denmark, have developed a workshop designed to enhance the competencies of researchers to search for published data.
       </td>
