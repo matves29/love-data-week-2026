@@ -19,6 +19,19 @@ In this webinar DeiC (**Hannah Mihai**) introduces you to the FAIR principles an
 
 </ul>
 
+## Day 2 Love Data Week 2026
+
+<ul class="grid">
+
+<li class="slides" markdown="1">
+{% include pdf.html pdf="assets/Visualize_research_and_Data_MVesterlund_20260210.pdf" title="Visualize Research and Data" %}
+
+In this webinar KTH (**Mattias Vesterlund**) introduces you to how to visualize different types of research data in various contexts. A picture is worth a thousand words, but how do you best communicate your results visually?The webinar goes through what to consider when visualizing data and research results, both graphical aspects of data visualization and how to reason about colour choice, layout and choice of charts and graphs. 
+
+</li>
+
+</ul>
+
 ## Some talks from Love Data Week 2025
 
 <ul class="grid">
