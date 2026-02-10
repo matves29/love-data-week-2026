@@ -6,19 +6,6 @@ event_status:
  - soon
 ---
 
-## Day 1 Love Data Week 2026
-
-<ul class="grid">
-
-<li class="slides" markdown="1">
-{% include pdf.html pdf="assets/Nordic-Love-Data-Week-DeiC.pdf" title="FAIR data and how to check fairness of your data" %}
-
-In this webinar DeiC (**Hannah Mihai**) introduces you to the FAIR principles and its importance to make data reproducible and aligned with research code of conduct(s). You will also learn how to define the FAIRification rationale for your data by using self evaluation tools such as (e.g. F-UJI or FAIR evaluator) and get practical tips on how to get started to enhance it's FAIRness.
-
-</li>
-
-</ul>
-
 ## Day 2 Love Data Week 2026
 
 <ul class="grid">
@@ -27,6 +14,26 @@ In this webinar DeiC (**Hannah Mihai**) introduces you to the FAIR principles an
 {% include pdf.html pdf="assets/Visualize_research_and_Data_MVesterlund_20260210.pdf" title="Visualize Research and Data" %}
 
 In this webinar KTH (**Mattias Vesterlund**) introduces you to how to visualize different types of research data in various contexts. A picture is worth a thousand words, but how do you best communicate your results visually?The webinar goes through what to consider when visualizing data and research results, both graphical aspects of data visualization and how to reason about colour choice, layout and choice of charts and graphs. 
+
+</li>
+
+<li class="slides" markdown="1">
+{% include pdf.html pdf="assets/Data_Catalog_LDW_2026_Ding-He.pdf" title="BRIGHT Data Catalog - Developing A Research Data Management Infrastructure" %}
+
+In this webinar **Ding He** (BRIGHT, DTU) shares his experiences and opinions to solutions that turn scattered research data into a coherent and well-governed assets. He shares strategies for integrations of lab data, computational analyses, lab data and DMP. This presentation aims to stimulate discussions for architectural choices, lessons learned, and common pitfalls when building an end-to-end research data management infrastructure. 
+
+</li>
+
+</ul>
+
+## Day 1 Love Data Week 2026
+
+<ul class="grid">
+
+<li class="slides" markdown="1">
+{% include pdf.html pdf="assets/Nordic-Love-Data-Week-DeiC.pdf" title="FAIR data and how to check fairness of your data" %}
+
+In this webinar DeiC (**Hannah Mihai**) introduces you to the FAIR principles and its importance to make data reproducible and aligned with research code of conduct(s). You will also learn how to define the FAIRification rationale for your data by using self evaluation tools such as (e.g. F-UJI or FAIR evaluator) and get practical tips on how to get started to enhance it's FAIRness.
 
 </li>
 
